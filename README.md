@@ -8,6 +8,8 @@ The quiz is very straight forward to use, when you select an answer it will be m
 ![](/assets/quizSC.png)
 ![](/assets/quizSC2.png)
 
-#### Links to my repository and website
+#### Links to my repository
 https://github.com/02madmax/CodingQuiz
+
+### Link to my website
 https://02madmax.github.io/CodingQuiz/
